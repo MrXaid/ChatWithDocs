@@ -24,8 +24,8 @@ ChatWithDocs is an interactive document analysis tool that allows users to uploa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatwithdocs.git
-   cd chatwithdocs
+   git clone https://github.com/yourusername/ChatWithDocs.git
+   cd ChatWithDocs
    ```
 
 2. Install the required dependencies:
